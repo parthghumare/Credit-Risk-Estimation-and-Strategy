@@ -1,4 +1,4 @@
-# Credit-Risk-Estimation-and-Strategy
+# Credit-Risk-Estimation-and-Strategy (Neural Network and XGBoost)
 High performance machine learning model using Python to predict if the customer will default in credit payments and calculate the risk associated. Devised an aggressive and a conservative strategy to approve credits to customers based on their probability of defaulting. Used grid-search for Neural Network and XGBoost algorithms for model training and optimization.
 
 Data used- American Express (Kaggle Competition - Default Prediction) : https://www.kaggle.com/competitions/amex-default-prediction/data
